@@ -35,7 +35,7 @@ chrome.notifications.onButtonClicked.addListener((notificationId, buttonIndex) =
     switch (buttonIndex) {
       // case 0:
       //   chrome.tabs.create({
-      //     url: ""
+      //     url: "" // WMG co-op copyrights
       //   });
       //   break;
       case 1:
