@@ -35,7 +35,7 @@ chrome.notifications.onButtonClicked.addListener((notificationId, buttonIndex) =
     switch (buttonIndex) {
       // case 0:
       //   chrome.tabs.create({
-      //     url: "https://github.com/kairi003/Get-cookies.txt-LOCALLY/releases"
+      //     url: ""
       //   });
       //   break;
       case 1:
